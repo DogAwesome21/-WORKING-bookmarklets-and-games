@@ -1,6 +1,6 @@
 # My discord server:
 
-(https://discord.gg/Vd5sJVqVzH)
+([https://discord.gg/Vd5sJVqVzH](https://discord.gg/tnqgGgym3W))
 
   ![Discord](http://invidget.switchblade.xyz/Vd5sJVqVzH)
 
