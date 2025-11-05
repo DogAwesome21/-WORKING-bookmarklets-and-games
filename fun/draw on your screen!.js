@@ -1,5 +1,5 @@
 javascript:
-var opt=1;alert("keyboard commands:c=color picker. u=pen up. d=pen down. s=size. o=opacity. reload to clear.");
+var opt=1;alert("keyboard commands:c=color picker. u=pen up. Left click=pen down. s=size. o=opacity. reload to clear.");
 var pen='none';
 var size=10;
 function repeat(event){(function(){
@@ -57,7 +57,7 @@ window.addEventListener("keydown",function(event){
     size=prompt("what size do you want? no caps, letters, or special characters. ex: 10");
     elem.style.display=%27block%27;}});
 window.addEventListener("keydown",function(event){
-  if(event.key=="u"){
+  if(event.button=="0"){
     pen=%27none%27;}});
 window.addEventListener("keydown",function(event){
   if(event.key=="d"){
